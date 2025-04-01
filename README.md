@@ -7,7 +7,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <i class="devicon-mysql-original colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>
  
